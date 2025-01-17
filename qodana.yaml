@@ -5,4 +5,5 @@ linter: jetbrains/qodana-js:2024.3
 include:
   - name: eslint
   - name: jscoverageinspection
+bootstrap: npm install
 
