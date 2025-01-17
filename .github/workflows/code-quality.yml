@@ -22,4 +22,4 @@ jobs:
           args: --source-directory,src
           pr-mode: false
         env:
-          QODANA_TOKEN: ${{ secrets.QODANA_TOKEN_798223210 }}
+          QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}
