@@ -1,0 +1,8 @@
+version: '1.0'
+
+linter: jetbrains/qodana-js:2024.3 
+
+include:
+  - name: eslint
+  - name: jscoverageinspection
+
